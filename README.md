@@ -1,6 +1,5 @@
-Pet暂停维护，1.0版本AHK代码已开源，编译请携带作者信息，尊重劳动成果一下下。
+Pet暂停维护，1.0版本AHK代码已开源.
 ====
-
 
 最新Pet版本号2.2
 ====
@@ -26,23 +25,6 @@ Pet暂停维护，1.0版本AHK代码已开源，编译请携带作者信息，�
 
 #### (6)一共三种模式，Space热键模式，CapsLock方法模式和引号命令模式。
 
-## 感谢
-
-[感谢【*木】2020-02-07 21:31:35对Pet的打赏](https://github.com/majorworld/Pet)
-
-[感谢【*绍城】2020-02-23 13:25:21对Pet的打赏](https://github.com/majorworld/Pet)
-
-[感谢【*玉峰】2020-03-02 13:46:30对Pet的打赏](https://github.com/majorworld/Pet)
-
-[感谢【**飞】2020-03-07 12:59:45对Pet的打赏](https://github.com/majorworld/Pet)
-
-[感谢【*勇】2020-03-18 14:36:31对Pet的打赏](https://github.com/majorworld/Pet)
-
-[感谢【*张】2020-04-17 13:16:46对Pet的打赏](https://github.com/majorworld/Pet)
-
-[感谢【*。】2020-05-08 15:25:21对Pet的打赏](https://github.com/majorworld/Pet)
-
-
 
 ## 新增
 
@@ -59,12 +41,4 @@ Pet暂停维护，1.0版本AHK代码已开源，编译请携带作者信息，�
 #### (6)添加GetProcessPath方法，获取活动窗口路径，双击热键定位，例如m=GetProcessPath则按【CapsLock+M】获取活动窗体路径。
 
 #### (7)添加GetClassName方法，获取活动窗口类名，双击热键复制类名，例如n=GetClassName则按【CapsLock+N】获取活动窗体类名。
-
-[图片预览1](https://meta.appinn.net/uploads/default/original/2X/8/8beb167a200ecf50e271e90b9336c807c25febca.png)
-
-![图片预览1](https://meta.appinn.net/uploads/default/original/2X/8/8beb167a200ecf50e271e90b9336c807c25febca.png)
-
-[图片预览2](https://meta.appinn.net/uploads/default/original/2X/3/34ec08e3efb7b2b3b257231ce63e1e41ba7c35f1.png)
-
-![图片预览2](https://meta.appinn.net/uploads/default/original/2X/3/34ec08e3efb7b2b3b257231ce63e1e41ba7c35f1.png)
 
